@@ -1,0 +1,37 @@
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.logo {
+  padding: 20px;
+  border: 2px solid;
+  margin: 10px;
+  cursor: pointer;
+  
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+    width:50%;
+    justify-content:center;
+}
+form div {
+  margin-bottom: 10px;
+  
+  width: 50%;
+  margin-bottom: 10px;
+}
+form label {
+  display: inline-block;
+  width: 160px;
+  /* text-align: right; */
+}
+.form-container{
+    
+        display: flex;
+        justify-content: center;
+    
+}
+
